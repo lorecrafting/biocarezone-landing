@@ -489,6 +489,9 @@
     form textarea { max-width: 100%; }
 
     .pixfort-form .alert { font-weight: bold; }
+    .serif {
+        font-family: "Times New Roman", Times, serif;
+      }
 
     /* float */
     .pix-float-left { float: left; }
